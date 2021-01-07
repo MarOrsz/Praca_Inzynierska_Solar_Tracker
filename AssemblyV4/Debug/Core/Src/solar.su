@@ -1,0 +1,11 @@
+solar.c:18:6:elew_init	8	static
+solar.c:45:6:elew_wlacz	8	static
+solar.c:52:6:elew_wylacz	8	static
+solar.c:58:6:elew_dol	8	static
+solar.c:68:6:elew_gora	8	static
+solar.c:78:6:elew_stop	8	static
+solar.c:83:6:elew_poz_pocz	16	static
+solar.c:95:6:elew_kroki	16	static
+solar.c:101:6:elew_predk	24	static
+solar.c:118:12:elew_odczytaj_fotorez	8	static
+solar.c:128:6:elew_steruj	24	static

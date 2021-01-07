@@ -1,0 +1,11 @@
+azymut.c:17:6:az_init	8	static
+azymut.c:44:6:az_wlacz	8	static
+azymut.c:50:6:az_wylacz	8	static
+azymut.c:55:6:az_lewo	8	static
+azymut.c:65:6:az_prawo	8	static
+azymut.c:75:6:az_stop	8	static
+azymut.c:80:6:az_poz_pocz	16	static
+azymut.c:92:6:az_kroki	16	static
+azymut.c:98:6:az_predk	24	static
+azymut.c:115:12:az_odczytaj_fotorez	8	static
+azymut.c:125:6:az_steruj	24	static

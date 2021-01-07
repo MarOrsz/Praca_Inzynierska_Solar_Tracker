@@ -1,0 +1,14 @@
+INA219.c:12:6:ina_init	8	static
+INA219.c:24:6:ina_write	40	static
+INA219.c:39:6:ina_read	40	static
+INA219.c:52:6:ina_calib_32V_1A	8	static
+INA219.c:67:6:ina_calib_16V_400mA	16	static
+INA219.c:83:6:ina_calib_16V_200mA	8	static
+INA219.c:100:10:getBusVoltage_raw	32	static
+INA219.c:123:10:getShuntVoltage_raw	16	static
+INA219.c:131:10:getCurrent_raw	16	static
+INA219.c:141:10:getPower_raw	16	static
+INA219.c:151:7:getBusVoltage_V	24	static
+INA219.c:156:7:getShuntVoltage_mV	24	static
+INA219.c:162:7:getCurrent_mA	16	static
+INA219.c:170:7:ina_power_mW	16	static

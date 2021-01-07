@@ -1,0 +1,7 @@
+main.c:59:9:open_append	24	static
+main.c:76:6:send_uart	24	static
+main.c:97:6:zapis_danych	8376	static
+main.c:132:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:156:5:main	24	static
+main.c:259:6:SystemClock_Config	160	static
+main.c:315:6:Error_Handler	4	static

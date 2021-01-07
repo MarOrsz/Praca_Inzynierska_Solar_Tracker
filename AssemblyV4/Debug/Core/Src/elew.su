@@ -1,0 +1,11 @@
+elew.c:18:6:elew_init	8	static
+elew.c:46:6:elew_wlacz	8	static
+elew.c:52:6:elew_wylacz	8	static
+elew.c:57:6:elew_dol	8	static
+elew.c:67:6:elew_gora	8	static
+elew.c:77:6:elew_stop	8	static
+elew.c:82:6:elew_poz_pocz	16	static
+elew.c:98:6:elew_kroki	16	static
+elew.c:104:6:elew_predk	24	static
+elew.c:121:12:elew_odczytaj_fotorez	8	static
+elew.c:131:6:elew_steruj	32	static

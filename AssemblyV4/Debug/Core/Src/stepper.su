@@ -1,0 +1,7 @@
+stepper.c:29:6:stepper_init	8	static
+stepper.c:41:6:stepper_speed	24	static
+stepper.c:59:6:stepper_run	16	static
+stepper.c:76:6:stepper_pause	8	static
+stepper.c:83:6:stepper_stop	8	static
+stepper.c:90:6:stepper_steps	16	static
+stepper.c:96:6:stepper_rot	16	static

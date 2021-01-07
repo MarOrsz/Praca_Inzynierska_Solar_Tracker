@@ -1,0 +1,5 @@
+solar2.c:18:6:solar_init	8	static
+solar2.c:29:6:solar_wlacz_s_wys	8	static
+solar2.c:36:6:solar_wylacz_s_wys	8	static
+solar2.c:42:6:solar_sprawdz_wys	48	static
+solar2.c:83:6:solar_steruj_s_wys	16	static
